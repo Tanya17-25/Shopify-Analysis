@@ -90,6 +90,3 @@ Drill-through / Detail Page
 **DAX** – calculation engine for KPI metrics
 
 **Source data files** – raw and processed Shopify exports (CSV/Excel)
-
-Dashboard Preview : 
-https://github.com/Tanya17-25/Shopify-Analysis/blob/main/Checkout%20the%20look%20of%20dashboard.png
