@@ -86,5 +86,7 @@ Drill-through / Detail Page
 ## 🧑‍💻 Tools & Tech Stack
 
 **Power BI Desktop** – data modeling, visualization, and dashboard development
+
 **DAX** – calculation engine for KPI metrics
+
 **Source data files** – raw and processed Shopify exports (CSV/Excel)
